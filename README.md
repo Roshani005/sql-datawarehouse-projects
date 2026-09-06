@@ -79,3 +79,22 @@ Source Systems
           ▼
      Business Insights
 
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. You are free to use,
+modify, and share this project with proper attribution.
+
+---
+
+## 👩‍💻 About Me
+
+Hi there! I'm **Roshani Deodatt Mishra**. I am currently pursuing an
+**MCA in Generative AI at SRM KTR, Chennai** and I am passionate about
+learning and working with **SQL, Data Analytics, Data Engineering, and
+Generative AI**.
+
+I am continuously building my skills through hands-on projects and
+practical learning, with a focus on developing industry-relevant
+technical expertise.
