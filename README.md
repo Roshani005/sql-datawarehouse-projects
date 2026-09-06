@@ -78,8 +78,7 @@ Source Systems
           │
           ▼
      Business Insights
-
----
+```
 
 ## 📜 License
 
