@@ -79,7 +79,7 @@ Source Systems
           ▼
      Business Insights
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 Hi! I'm Roshani Deodatt Mishra.
 
@@ -87,6 +87,6 @@ I am currently pursuing an MCA in Generative AI at SRM KTR, Chennai. I am intere
 
 Through projects like this, I am working on strengthening my practical understanding of data and developing industry-relevant technical skills.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
