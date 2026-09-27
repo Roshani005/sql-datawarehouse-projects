@@ -78,7 +78,10 @@ BEGIN
 
             cst_create_date
 
-        FROM bronze.crm_cust_info;
+        FROM bronze.crm_cust_info
+
+        WHERE cst_id IS NOT NULL;
+        
 
         SET @end_time = GETDATE();
 
